@@ -1,0 +1,14 @@
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\bin\Debug\net6.0\Movies.Entities.deps.json
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\bin\Debug\net6.0\Movies.Entities.runtimeconfig.json
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\bin\Debug\net6.0\Movies.Entities.dll
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\bin\Debug\net6.0\Movies.Entities.pdb
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.csproj.AssemblyReference.cache
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.AssemblyInfoInputs.cache
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.AssemblyInfo.cs
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.dll
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\refint\Movies.Entities.dll
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.pdb
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\Movies.Entities.genruntimeconfig.cache
+C:\Users\BULLET\source\repos\MoviesSln\Movies.Data\obj\Debug\net6.0\ref\Movies.Entities.dll
